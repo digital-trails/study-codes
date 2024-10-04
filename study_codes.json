@@ -1,6 +1,8 @@
 {
 	"UMA": {
 	 	"Protocol": "https://github.com/TeachmanLab/MindtrailsMobile_Resources/raw/main/HTC/protocols/protocol1/mt-htc-uma.json"
-		"TestEncrypted": "https://github.com/bzd3y/sensus-files/raw/refs/heads/master/sensus-test.json"
+	},
+	"TestEncrypted": {
+		"Protocol": "https://github.com/bzd3y/sensus-files/raw/refs/heads/master/sensus-test.json"
 	}
 }
