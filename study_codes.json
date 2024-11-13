@@ -1,6 +1,6 @@
 {
 	"TEST": {
-		"name": "A Test Study".
+		"name": "A Test Study",
 	 	"protocol_url": "https://github.com/bzd3y/sensus-files/raw/refs/heads/master/test-study.zip"
 	},
 	"TestEncrypted": {
