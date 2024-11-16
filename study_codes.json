@@ -1,8 +1,7 @@
 {
 	"HTC-SPANISH": {
 		"name": "Hoos Think Calmly: Spanish",
-		"protocol_url": "https://github.com/mrucker/htc_spanish/releases/download/v2.0.1/protocol.zip",
-	 	"latest_protocol_url": "https://github.com/mrucker/htc_spanish/releases/latest/download/protocol.zip"
+	 	"protocol_url": "https://github.com/mrucker/htc_spanish/releases/latest/download/protocol.zip"
 	},
 	"TestEncrypted": {
 		"protocol_url": "https://github.com/bzd3y/sensus-files/raw/refs/heads/master/sensus-test.json"
