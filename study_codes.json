@@ -1,6 +1,10 @@
 {
    "HTC-SPANISH":{
       "name":"Hoos Think Calmly: Spanish",
+      "protocol_url":"https://github.com/mrucker/htc_spanish/releases/latest/download/protocol.zip"
+   },
+   "HTC-SPANISH-TEST":{
+      "name":"Hoos Think Calmly: Spanish",
       "lang":[
          "es-ES"
       ],
