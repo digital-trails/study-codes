@@ -8,6 +8,7 @@
    "htc":{
       "name":"Hoos Think Calmly: Spanish",
       "protocol_url":"https://github.com/mrucker/htc_spanish/releases/latest/download/protocol.zip",
+      "consent_url": "https://virginiahsd.co1.qualtrics.com/jfe/form/SV_1RNB6Xz19Q8Fh30",
       "lang":[
          "en-US"
       ]
