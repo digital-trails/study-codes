@@ -1,7 +1,7 @@
 {
    "MindTrails":{
       "name":"MindTrails: Spanish",
-      "protocol_url":"https://github.com/mrucker/htc_spanish/releases/latest/download/protocol.zip",
+      "protocol_url":"https://github.com/digital-trails/htc_spanish/releases/latest/download/protocol.zip",
       "lang":[ "es-US" ],
       "consent_url": "https://virginiahsd.co1.qualtrics.com/jfe/form/SV_1RNB6Xz19Q8Fh30"
    },
