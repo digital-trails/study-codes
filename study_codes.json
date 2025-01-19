@@ -1,4 +1,9 @@
 {
+   
+   "test":{
+      "name":"MindTrails: Spanish",
+      "protocol_url":"https://github.com/mrucker/htc_spanish/releases/latest/download/protocol.zip",
+   },
    "MindTrails":{
       "name":"MindTrails: Spanish",
       "protocol_url":"https://github.com/digital-trails/htc_spanish/releases/latest/download/protocol.zip",
