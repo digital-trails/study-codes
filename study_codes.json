@@ -7,7 +7,7 @@
    },
    "htc":{
       "name":"Hoos Think Calmly: Spanish",
-        "repo":"https://github.com/digital-trails/htc_spanish"
+      "repo":"https://github.com/digital-trails/htc_spanish",
       "lang":[
          "en-US"
       ]
