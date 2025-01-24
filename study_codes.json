@@ -15,7 +15,7 @@
    "test":{
       "name":"test",
       "repo":"https://github.com/mrucker/htc_spanish",
-   }
+   },
    "TestEncrypted":{
       "protocol_url":"https://github.com/bzd3y/sensus-files/raw/refs/heads/master/sensus-test.json"
    }
