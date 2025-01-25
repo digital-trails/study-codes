@@ -1,22 +1,19 @@
 {
    "MindTrails":{
       "name":"MindTrails: Spanish",
-      "repo":"https://github.com/digital-trails/htc_spanish",
+      "repo":"digital-trails/htc_spanish",
       "lang":[ "es-US" ],
       "consent_url": "https://virginiahsd.co1.qualtrics.com/jfe/form/SV_1RNB6Xz19Q8Fh30"
    },
    "htc":{
       "name":"Hoos Think Calmly: Spanish",
-      "repo":"https://github.com/digital-trails/htc_spanish",
+      "repo":"digital-trails/htc_spanish",
       "lang":[
          "en-US"
       ]
    },
    "test":{
       "name":"test",
-      "repo":"https://github.com/mrucker/htc_spanish",
-   },
-   "TestEncrypted":{
-      "protocol_url":"https://github.com/bzd3y/sensus-files/raw/refs/heads/master/sensus-test.json"
+      "repo":"mrucker/htc_spanish",
    }
 }
