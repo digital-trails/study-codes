@@ -14,7 +14,7 @@
    "HTC":{
       "name":"Hoos Think Calmly",
       "repo":"digital-trails/htc_spanish",
-      "container_name": "HTC"
+      "container_name": "HTC",
       "lang":[ "en-US" ]
    }
 }
