@@ -1,25 +1,14 @@
 {
-   "MindTrails":{
-      "name":"MindTrails: Spanish",
-      "repo":"digital-trails/htc_spanish",
-      "lang":[ "es-US" ],
-      "consent_url": "https://virginiahsd.co1.qualtrics.com/jfe/form/SV_1RNB6Xz19Q8Fh30"
-   },
-   "MTS":{
+   "MTE":{
       "name":"MindTrails: Spanish",
       "repo":"TeachmanLab/mindtrails_spanish",
       "lang":[ "es-US" ],
-      "consent_url": "https://virginiahsd.co1.qualtrics.com/jfe/form/SV_1RNB6Xz19Q8Fh30"
-   },
-   "HTC":{
-      "name":"Hoos Think Calmly: Spanish",
-      "repo":"digital-trails/htc_spanish",
-      "lang":[
-         "en-US"
-      ]
+      "consent_url": "https://virginiahsd.co1.qualtrics.com/jfe/form/SV_1RNB6Xz19Q8Fh30",
+      "container": "MindTrails-Spanish"
    },
    "Test":{
       "name":"test",
-      "repo":"digital-trails/protocol-test"
+      "repo":"digital-trails/protocol-test",
+      "container": "test"
    }
 }
