@@ -14,11 +14,5 @@
       "name":"test",
       "repo":"digital-trails/protocol-test",
       "container_name": "test"
-   },
-   "HTC":{
-      "name":"Hoos Think Calmly",
-      "repo":"digital-trails/htc_spanish",
-      "container_name": "HTC",
-      "lang":[ "en" ]
    }
 }
