@@ -3,7 +3,12 @@
       "name":"MindTrails",
       "repo":"TeachmanLab/mindtrails_spanish",
       "lang":[ "es" ],
-      "container_name": "MindTrails-Spanish"
+      "container_name": "mindtrails_movement"
+   },
+   "MTM":{
+      "name":"MindTrails",
+      "repo":"TeachmanLab/mindtrails_movement",
+      "container_name": "mindtrails_movement"
    },
    "Test":{
       "name":"test",
