@@ -15,4 +15,9 @@
       "repo":"digital-trails/protocol-test",
       "container_name": "test"
    }
+   "Demo":{
+      "name":"Digital Trails Demo",
+      "repo":"mrucker/protocol-demo",
+      "container_name": "demo"
+   }
 }
