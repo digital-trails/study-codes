@@ -13,7 +13,8 @@
    "Test":{
       "name":"test",
       "repo":"digital-trails/protocol-test",
-      "container_name": "test"
+      "container_name": "test",
+      "datums_endpoint": "https://digital-trails.org/api/v1/datums"
    },
    "Demo":{
       "name":"Digital Trails Demo",
