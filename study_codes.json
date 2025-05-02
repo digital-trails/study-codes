@@ -21,7 +21,7 @@
    },
    "Demo":{
       "name":"Digital Trails Demo",
-      "repo":"mrucker/protocol-demo",
+      "repo":"digital-trails/protocol-demo",
       "container_name": "demo"
    }
 }
