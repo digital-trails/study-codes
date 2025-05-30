@@ -23,5 +23,10 @@
       "name":"Digital Trails Demo",
       "repo":"digital-trails/protocol-demo",
       "container_name": "demo"
+   },
+   "MINDMOVE":{
+      "name": "Mind in Motion",
+      "repo": "digital-trails/mind_motion",
+      "container_name":"mind-move"
    }
 }
