@@ -32,11 +32,11 @@
    "Ivey":{
       "name":"Ivey",
       "repo":"iveymistele/protocol-demo",
-      "container_name": "ivey",
+      "container_name": "ivey"
    },
    "Diana":{
       "name":"Diana",
       "repo":"dianalin2/protocol-demo",
-      "container_name": "diana",
+      "container_name": "diana"
    }
 }
