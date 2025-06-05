@@ -38,5 +38,10 @@
       "name":"Diana",
       "repo":"dianalin2/protocol-demo",
       "container_name": "diana"
+   },
+   "mr2an": {
+      "name": "Mark",
+      "repo":"mrucker/protocol-demo",
+      "container_name":"mrucker"
    }
 }
