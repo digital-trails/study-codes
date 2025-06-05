@@ -31,10 +31,12 @@
    },
    "Ivey":{
       "name":"Ivey",
-      "repo":"iveymistele/protocol-demo"
+      "repo":"iveymistele/protocol-demo",
+      "container_name": "ivey",
    },
    "Diana":{
       "name":"Diana",
-      "repo":"dianalin2/protocol-demo"
+      "repo":"dianalin2/protocol-demo",
+      "container_name": "diana",
    }
 }
