@@ -29,4 +29,12 @@
       "repo": "digital-trails/mind_motion",
       "container_name":"mind-move"
    }
+   "Ivey":{
+      "name":"Ivey",
+      "repo":"iveymistele/protocol-demo"
+   },
+   "Diana":{
+      "name":"Diana",
+      "repo":"dianalin2/protocol-demo"
+   }
 }
