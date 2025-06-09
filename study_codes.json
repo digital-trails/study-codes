@@ -1,47 +1,57 @@
 {
-   "MTE":{
-      "name":"MindTrails",
-      "repo":"TeachmanLab/mindtrails_spanish",
-      "lang":[ "es" ],
-      "container_name": "mindtrails-spanish",
-      "datums_endpoint": "https://digital-trails.org/api/v1/datums"
-   },
-   "MTM":{
-      "name":"MindTrails",
-      "repo":"TeachmanLab/mindtrails_movement",
-      "container_name": "mindtrails-movement",
-      "datums_endpoint": "https://digital-trails.org/api/v1/datums"
-   },
-   "Test":{
-      "name":"test",
-      "repo":"digital-trails/protocol-test",
-      "container_name": "test",
-      "lang":[ "en", "es" ],
-      "datums_endpoint": "https://digital-trails.org/api/v1/datums"
-   },
-   "Demo":{
-      "name":"Digital Trails Demo",
-      "repo":"digital-trails/protocol-demo",
-      "container_name": "demo"
-   },
-   "MINDMOVE":{
-      "name": "Mind in Motion",
-      "repo": "digital-trails/mind_motion",
-      "container_name":"mind-move"
-   },
-   "Ivey":{
-      "name":"Ivey",
-      "repo":"iveymistele/protocol-demo",
-      "container_name": "ivey"
-   },
-   "Diana":{
-      "name":"Diana",
-      "repo":"dianalin2/protocol-demo",
-      "container_name": "diana"
-   },
-   "mr2an": {
-      "name": "Mark",
-      "repo":"mrucker/protocol-demo",
-      "container_name":"mrucker"
-   }
+  "MTE": {
+    "name": "MindTrails",
+    "repo": "TeachmanLab/mindtrails_spanish",
+    "lang": [
+      "es"
+    ],
+    "container_name": "mindtrails-spanish",
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
+  },
+  "MTM": {
+    "name": "MindTrails",
+    "repo": "TeachmanLab/mindtrails_movement",
+    "container_name": "mindtrails-movement",
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
+  },
+  "Test": {
+    "name": "test",
+    "repo": "digital-trails/protocol-test",
+    "container_name": "test",
+    "lang": [
+      "en",
+      "es"
+    ],
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
+  },
+  "Demo": {
+    "name": "Digital Trails Demo",
+    "repo": "digital-trails/protocol-demo",
+    "container_name": "demo"
+  },
+  "MINDMOVE": {
+    "name": "Mind in Motion",
+    "repo": "digital-trails/mind_motion",
+    "container_name": "mind-move"
+  },
+  "Ivey": {
+    "name": "Ivey",
+    "repo": "iveymistele/protocol-demo",
+    "container_name": "ivey"
+  },
+  "Diana": {
+    "name": "Diana",
+    "repo": "dianalin2/protocol-demo",
+    "container_name": "diana"
+  },
+  "mr2an": {
+    "name": "Mark",
+    "repo": "mrucker/protocol-demo",
+    "container_name": "mrucker"
+  },
+  "ib": {
+    "name": "ib",
+    "repo": "ibanjum/protocol-demo",
+    "container_name": "ib"
+  }
 }
