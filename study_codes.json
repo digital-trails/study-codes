@@ -51,7 +51,7 @@
   },
   "ib": {
     "name": "Mind in Motion",
-    "repo": "ibanju,/mind_move",
+    "repo": "ibanjum/mind_move",
     "container_name": "ibcontainer"
   }
 }
