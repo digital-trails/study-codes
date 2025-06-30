@@ -51,7 +51,7 @@
   },
   "ib": {
     "name": "ib",
-    "repo": "ibanjum/protocol-demo",
+    "repo": "ibanjum/mind_move",
     "container_name": "ib"
   }
 }
