@@ -31,7 +31,7 @@
   },
   "MINDMOVE": {
     "name": "Mind in Motion",
-    "repo": "digital-trails/mind_move",
+    "repo": "ibanjum/mind_move",
     "container_name": "mind-move"
   },
   "Ivey": {
@@ -48,10 +48,5 @@
     "name": "Mark",
     "repo": "mrucker/protocol-demo",
     "container_name": "mrucker"
-  },
-  "ib": {
-    "name": "ib",
-    "repo": "ibanjum/mind_move",
-    "container_name": "ib"
   }
 }
