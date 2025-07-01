@@ -10,7 +10,8 @@
     "name": "MindTrails",
     "repo": "TeachmanLab/mindtrails_spanish",
     "lang": [ "es" ],
-    "container_name": "mindtrails-spanish",
+    "container_name": "mindtrails-spanish-test",
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
   },
   "MTM": {
     "name": "MindTrails",
@@ -21,7 +22,8 @@
   "MTM-T": {
     "name": "MindTrails",
     "repo": "TeachmanLab/mindtrails_movement",
-    "container_name": "mindtrails-movement",
+    "container_name": "mindtrails-movement-test",
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
   },
   "Test": {
     "name": "test",
