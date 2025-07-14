@@ -40,10 +40,15 @@
     "repo": "digital-trails/protocol-demo",
     "container_name": "demo"
   },
-  "MINDMOVE": {
+  "MindMove": {
     "name": "Mind in Motion",
-    "repo": "digital-trails/mind_move",
+    "repo": "digital-trails/protocol-mind_move",
     "container_name": "mind-move"
+  },
+  "BCM": {
+    "name": "BCM",
+    "repo": "digital-trails/protocol-bcm",
+    "container_name": "bcm"
   },
   "Ivey": {
     "name": "Ivey",
