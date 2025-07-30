@@ -29,6 +29,7 @@
     "name": "test",
     "repo": "digital-trails/protocol-test",
     "container_name": "test",
+    "dashboard" : 12,
     "lang": [
       "en",
       "es"
