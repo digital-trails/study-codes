@@ -68,8 +68,8 @@
   },
   "ib": {
     "name": "Mind in Motion",
-    "repo": "ibanjum/mind_move",
-    "container_name": "ibcontainer",
-    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
+    "repo": "ibanjum/mindtrails_movement",
+    "container_name": "ibcontainer"
   }
 }
+
