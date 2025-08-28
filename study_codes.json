@@ -67,9 +67,10 @@
     "container_name": "mrucker"
   },
   "ib": {
-    "name": "Mind in Motion",
+    "name": "ib fork",
     "repo": "ibanjum/mindtrails_movement",
     "container_name": "ibcontainer"
   }
 }
+
 
