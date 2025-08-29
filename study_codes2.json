@@ -1,1 +1,65 @@
-
+[
+  {
+    "code": "MTE",
+    "name": "MindTrails",
+    "repo": "TeachmanLab/mindtrails_spanish",
+    "lang": [ "es" ],
+    "container_name": "mindtrails-spanish",
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
+  },
+  {
+    "code": "MTE-T",
+    "name": "MindTrails",
+    "repo": "TeachmanLab/mindtrails_spanish",
+    "lang": [ "es" ],
+    "container_name": "mindtrails-spanish-test",
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
+  },
+  {
+    "code": "MTM",
+    "name": "MindTrails",
+    "repo": "TeachmanLab/mindtrails_movement",
+    "container_name": "mindtrails-movement",
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
+  },
+  {
+    "code": "MTM-T",
+    "name": "MindTrails",
+    "repo": "TeachmanLab/mindtrails_movement",
+    "container_name": "mindtrails-movement-test",
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
+  },
+  {
+    "code": "Test",
+    "name": "test",
+    "repo": "digital-trails/protocol-test",
+    "container_name": "test",
+    "dashboard" : 12,
+    "lang": [ "en", "es" ],
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
+  },
+  {
+    "code": "Demo",
+    "name": "Digital Trails Demo",
+    "repo": "digital-trails/protocol-demo",
+    "container_name": "demo"
+  },
+  {
+    "code": "MindMove",
+    "name": "Mind in Motion",
+    "repo": "digital-trails/protocol-mind_move",
+    "container_name": "mind-move"
+  },
+  {
+    "code": "BCM",
+    "name": "BCM",
+    "repo": "digital-trails/protocol-bcm",
+    "container_name": "bcm"
+  },
+  {
+    "code": "ib",
+    "name": "ib fork",
+    "repo": "ibanjum/mindtrails_movement",
+    "container_name": "ibcontainer"
+  }
+]
