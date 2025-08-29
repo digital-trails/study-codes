@@ -32,7 +32,7 @@
   {
     "code": "Test",
     "name": "test",
-    "repo": "digital-trails/protocol-test",
+    "repo": "digital-trails-protocols1/test",
     "container_name": "test",
     "dashboard" : 12,
     "lang": [ "en", "es" ],
@@ -47,7 +47,7 @@
   {
     "code": "MindMove",
     "name": "Mind in Motion",
-    "repo": "digital-trails/protocol-mind_move",
+    "repo": "digital-trails-protocols1/mindmove",
     "container_name": "mind-move"
   },
   {
