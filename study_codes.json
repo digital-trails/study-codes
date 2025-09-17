@@ -2,14 +2,18 @@
   "MTE": {
     "name": "MindTrails",
     "repo": "TeachmanLab/mindtrails_spanish",
-    "lang": [ "es" ],
+    "lang": [
+      "es"
+    ],
     "container_name": "mindtrails-spanish",
     "datums_endpoint": "https://digital-trails.org/api/v1/datums"
   },
   "MTE-T": {
     "name": "MindTrails",
     "repo": "TeachmanLab/mindtrails_spanish",
-    "lang": [ "es" ],
+    "lang": [
+      "es"
+    ],
     "container_name": "mindtrails-spanish-test",
     "datums_endpoint": "https://digital-trails.org/api/v1/datums"
   },
@@ -29,12 +33,14 @@
     "name": "test",
     "repo": "digital-trails/protocol-test",
     "container_name": "test",
-    "dashboard" : 12,
+    "dashboard": 12,
     "lang": [
       "en",
       "es"
     ],
-    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums",
+    "public": true,
+    "description": "This is a test study."
   },
   "Demo": {
     "name": "Digital Trails Demo",
@@ -44,7 +50,9 @@
   "MindMove": {
     "name": "Mind in Motion",
     "repo": "digital-trails/protocol-mind_move",
-    "container_name": "mind-move"
+    "container_name": "mind-move",
+    "public": true,
+    "description": "Calm the mind. Move the body. Reclaim your recovery."
   },
   "BCM": {
     "name": "BCM",
@@ -64,7 +72,9 @@
   "mr2an": {
     "name": "Mark",
     "repo": "mrucker/protocol-demo",
-    "container_name": "mrucker"
+    "container_name": "mrucker",
+    "public": true,
+    "description": "This is a demo study for demo purposes."
   },
   "ib": {
     "name": "ib fork",
@@ -72,5 +82,3 @@
     "container_name": "ibcontainer"
   }
 }
-
-
