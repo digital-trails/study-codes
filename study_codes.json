@@ -6,7 +6,8 @@
       "es"
     ],
     "container_name": "mindtrails-spanish",
-    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums",
+    "description": "Comprenede tu manera de pensar. Siéntete menos ansioso."
   },
   "MTE-T": {
     "name": "Mind Trails Spanish Test",
@@ -15,19 +16,22 @@
       "es"
     ],
     "container_name": "mindtrails-spanish-test",
-    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums",
+    "description": "Comprenede tu manera de pensar. Siéntete menos ansioso."
   },
   "MTM": {
     "name": "Mind Trails Movement",
     "repo": "TeachmanLab/mindtrails_movement",
     "container_name": "mindtrails-movement",
-    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums",
+    "description": "Understand Your Thinking. Feel Less Anxious."
   },
   "MTM-T": {
     "name": "Mind Trails Movement Test",
     "repo": "TeachmanLab/mindtrails_movement",
     "container_name": "mindtrails-movement-test",
-    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums",
+    "description": "Understand Your Thinking. Feel Less Anxious."
   },
   "Test": {
     "name": "test",
@@ -70,7 +74,7 @@
     "container_name": "diana"
   },
   "mr2an": {
-    "name": "Mark",
+    "name": "Demo Study",
     "repo": "mrucker/protocol-demo",
     "container_name": "mrucker",
     "public": true,
@@ -82,4 +86,3 @@
     "container_name": "ibcontainer"
   }
 }
-
