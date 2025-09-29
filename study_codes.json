@@ -6,8 +6,7 @@
       "es"
     ],
     "container_name": "mindtrails-spanish",
-    "datums_endpoint": "https://digital-trails.org/api/v1/datums",
-    "description": "Comprenede tu manera de pensar. Siéntete menos ansioso."
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
   },
   "MTE-T": {
     "name": "Mind Trails Spanish Test",
@@ -16,22 +15,19 @@
       "es"
     ],
     "container_name": "mindtrails-spanish-test",
-    "datums_endpoint": "https://digital-trails.org/api/v1/datums",
-    "description": "Comprenede tu manera de pensar. Siéntete menos ansioso."
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
   },
   "MTM": {
     "name": "Mind Trails Movement",
     "repo": "TeachmanLab/mindtrails_movement",
     "container_name": "mindtrails-movement",
-    "datums_endpoint": "https://digital-trails.org/api/v1/datums",
-    "description": "Understand Your Thinking. Feel Less Anxious."
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
   },
   "MTM-T": {
     "name": "Mind Trails Movement Test",
     "repo": "TeachmanLab/mindtrails_movement",
     "container_name": "mindtrails-movement-test",
-    "datums_endpoint": "https://digital-trails.org/api/v1/datums",
-    "description": "Understand Your Thinking. Feel Less Anxious."
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
   },
   "Test": {
     "name": "test",
@@ -42,9 +38,7 @@
       "en",
       "es"
     ],
-    "datums_endpoint": "https://digital-trails.org/api/v1/datums",
-    "public": true,
-    "description": "This is a test study."
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
   },
   "Demo": {
     "name": "Digital Trails Demo",
@@ -55,12 +49,16 @@
     "name": "Mind in Motion",
     "repo": "digital-trails/protocol-mind_move",
     "container_name": "mind-move",
-    "public": true,
-    "description": "Calm the mind. Move the body. Reclaim your recovery."
+    "public": true
   },
   "BCM": {
     "name": "BCM",
     "repo": "digital-trails/protocol-bcm",
+    "container_name": "bcm"
+  },
+  "BCS": {
+    "name": "BCS Options",
+    "repo": "digital-trails/protocol-cbcso",
     "container_name": "bcm"
   },
   "Ivey": {
@@ -76,9 +74,7 @@
   "mr2an": {
     "name": "Demo Study",
     "repo": "mrucker/protocol-demo",
-    "container_name": "mrucker",
-    "public": true,
-    "description": "This is a demo study for demo purposes."
+    "container_name": "mrucker"
   },
   "ib": {
     "name": "ib fork",
