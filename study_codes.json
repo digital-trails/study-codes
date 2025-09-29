@@ -59,7 +59,7 @@
   "BCS": {
     "name": "BCS Options",
     "repo": "digital-trails/protocol-cbcso",
-    "container_name": "bcm"
+    "container_name": "bcs"
   },
   "Ivey": {
     "name": "Ivey",
@@ -82,3 +82,4 @@
     "container_name": "ibcontainer"
   }
 }
+
