@@ -33,6 +33,7 @@
     "name": "test",
     "repo": "digital-trails/protocol-test",
     "container_name": "test",
+    "consent_url": "https://virginiahsd.co1.qualtrics.com/jfe/form/SV_1RNB6Xz19Q8Fh30",
     "dashboard": 12,
     "lang": [
       "en",
@@ -82,4 +83,5 @@
     "container_name": "ibcontainer"
   }
 }
+
 
