@@ -79,9 +79,10 @@
   },
   "ib": {
     "name": "ib fork",
-    "repo": "ibanjum/mindtrails_movement",
+    "repo": "ibanjum/protocol-mindmove",
     "container_name": "ibcontainer"
   }
 }
+
 
 
