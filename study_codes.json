@@ -79,10 +79,11 @@
   },
   "ib": {
     "name": "ib fork",
-    "repo": "ibanjum/protocol-mindmove",
+    "repo": "ibanjum/mind_move",
     "container_name": "ibcontainer"
   }
 }
+
 
 
 
