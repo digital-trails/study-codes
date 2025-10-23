@@ -21,7 +21,8 @@
     "name": "Mind Trails Movement",
     "repo": "TeachmanLab/mindtrails_movement",
     "container_name": "mindtrails-movement",
-    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums",
+    "requires_invitation": true
   },
   "MTM-T": {
     "name": "Mind Trails Movement Test",
@@ -84,6 +85,7 @@
     "container_name": "ibcontainer"
   }
 }
+
 
 
 
