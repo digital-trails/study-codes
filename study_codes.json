@@ -50,7 +50,7 @@
   },
   "MindMove": {
     "name": "Mind in Motion",
-    "repo": "digital-trails/protocol-mind_move",
+    "repo": "digital-trails-protocols1/mindmove",
     "container_name": "mind-move",
     "public": true
   },
@@ -85,6 +85,7 @@
     "container_name": "ibcontainer"
   }
 }
+
 
 
 
