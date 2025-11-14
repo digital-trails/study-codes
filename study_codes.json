@@ -29,7 +29,8 @@
     "repo": "TeachmanLab/mindtrails_movement",
     "container_name": "mindtrails-movement-test",
     "datums_endpoint": "https://digital-trails.org/api/v1/datums",
-    "config": "flow://flows/configs.json"
+    "config": "flow://flows/configs.json",
+    "show_settings_config": false
   },
   "Test": {
     "name": "test",
@@ -85,6 +86,7 @@
     "container_name": "ibcontainer"
   }
 }
+
 
 
 
