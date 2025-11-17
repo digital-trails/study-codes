@@ -5,7 +5,7 @@
     "lang": [
       "es"
     ],
-    "container_name": "mindtrails-spanish",
+    "container_name": "mte",
     "datums_endpoint": "https://digital-trails.org/api/v1/datums"
   },
   "MTE-T": {
@@ -14,20 +14,28 @@
     "lang": [
       "es"
     ],
-    "container_name": "mindtrails-spanish-test",
+    "container_name": "mte-t",
     "datums_endpoint": "https://digital-trails.org/api/v1/datums"
   },
   "MTM": {
     "name": "Mind Trails Movement",
     "repo": "TeachmanLab/mindtrails_movement",
-    "container_name": "mindtrails-movement",
+    "container_name": "mtm",
     "datums_endpoint": "https://digital-trails.org/api/v1/datums",
     "requires_invitation": true
   },
   "MTM-T": {
     "name": "Mind Trails Movement Test",
     "repo": "TeachmanLab/mindtrails_movement",
-    "container_name": "mindtrails-movement-test",
+    "container_name": "mtm-t",
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums",
+    "config": "flow://flows/configs.json",
+    "show_settings_config": true
+  },
+  "MTM-F": {
+    "name": "Mind Trails Movement Test",
+    "repo": "TeachmanLab/mindtrails_movement",
+    "container_name": "mtm",
     "datums_endpoint": "https://digital-trails.org/api/v1/datums",
     "config": "flow://flows/configs.json",
     "show_settings_config": false
@@ -65,27 +73,13 @@
     "repo": "digital-trails/protocol-cbcso",
     "container_name": "bcs"
   },
-  "Ivey": {
-    "name": "Ivey",
-    "repo": "iveymistele/protocol-demo",
-    "container_name": "ivey"
-  },
-  "Diana": {
-    "name": "Diana",
-    "repo": "dianalin2/protocol-demo",
-    "container_name": "diana"
-  },
-  "mr2an": {
-    "name": "Demo Study",
-    "repo": "mrucker/protocol-demo",
-    "container_name": "mrucker"
-  },
   "ib": {
     "name": "ib fork",
     "repo": "ibanjum/mind_move",
     "container_name": "ibcontainer"
   }
 }
+
 
 
 
