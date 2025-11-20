@@ -6,7 +6,8 @@
       "es"
     ],
     "container_name": "mte",
-    "datums_endpoint": "https://digital-trails.org/api/v1/datums"
+    "datums_endpoint": "https://digital-trails.org/api/v1/datums",
+    "config": "flow://flows/configs.json"
   },
   "MTE-T": {
     "name": "Mind Trails Spanish Test",
@@ -16,6 +17,7 @@
     ],
     "container_name": "mte-t",
     "datums_endpoint": "https://digital-trails.org/api/v1/datums"
+    "config": "flow://flows/configs.json"
   },
   "MTM": {
     "name": "Mind Trails Movement",
@@ -79,6 +81,7 @@
     "container_name": "ibcontainer"
   }
 }
+
 
 
 
