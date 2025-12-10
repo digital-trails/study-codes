@@ -29,7 +29,7 @@
   "MTM-T": {
     "name": "Mind Trails Movement Test",
     "repo": "TeachmanLab/mindtrails_movement",
-    "container_name": "mtm-t",
+    "container_name": "mtm",
     "config": "flow://flows/configs.json",
     "show_settings_config": true
   },
@@ -80,6 +80,7 @@
     "container_name": "ibcontainer"
   }
 }
+
 
 
 
