@@ -44,7 +44,7 @@
   "SAB": {
     "name": "Recovery Support",
     "repo": "digital-trails/protocol-sab",
-    "container_name": "sab",
+    "container_name": "sab"
   },
   "Test": {
     "name": "test",
@@ -85,6 +85,7 @@
     "container_name": "ibcontainer"
   }
 }
+
 
 
 
