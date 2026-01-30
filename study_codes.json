@@ -46,6 +46,11 @@
     "repo": "digital-trails/protocol-sab",
     "container_name": "sab"
   },
+  "LEIA": {
+    "name": "LEIA",
+    "repo": "digital-trails/protocol-leia",
+    "container_name": "leia"
+  },
   "Test": {
     "name": "test",
     "repo": "digital-trails/protocol-test",
@@ -85,6 +90,7 @@
     "container_name": "ibcontainer"
   }
 }
+
 
 
 
