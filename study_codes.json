@@ -66,7 +66,7 @@
     ],
     "datums_endpoint": "https://digital-trails.org/api/datums",
     "config-queues": {
-      "group": "test${global:variable2}variable2"
+     "group": "test${global:population}group"
     }
   },
   "Demo": {
@@ -96,6 +96,7 @@
     "container_name": "ibcontainer"
   }
 }
+
 
 
 
