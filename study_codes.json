@@ -25,7 +25,7 @@
     "container_name": "mtm",
     "datums_endpoint": "https://digital-trails.org/api/v1/datums",
     "requires_invitation": true,
-    "config-queues": {
+    "config_queues": {
       "group": "mtm${global:population}group"
     }
   },
@@ -96,6 +96,7 @@
     "container_name": "ibcontainer"
   }
 }
+
 
 
 
