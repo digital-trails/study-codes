@@ -69,6 +69,11 @@
      "group": "test${global:population}group"
     }
   },
+  "Test2": {
+    "name": "test 2",
+    "repo": "digital-trails/protocol-test2",
+    "container_name": "test2"
+  },
   "Demo": {
     "name": "Digital Trails Demo",
     "repo": "digital-trails/protocol-demo",
