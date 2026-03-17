@@ -36,6 +36,13 @@
     "config": "flow://flows/configs.json",
     "show_settings_config": true
   },
+  "MTM-T2": {
+    "name": "Mind Trails Movement Test",
+    "repo": "TeachmanLab/mindtrails_movement",
+    "container_name": "mtm-t2",
+    "config": "flow://flows/configs.json",
+    "show_settings_config": true
+  },
   "MTM-F": {
     "name": "Mind Trails Movement",
     "repo": "TeachmanLab/mindtrails_movement",
