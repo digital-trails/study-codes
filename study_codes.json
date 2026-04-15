@@ -107,6 +107,12 @@
     "name": "ib fork",
     "repo": "ibanjum/mind_move",
     "container_name": "ibcontainer"
+  },
+  "ai": {
+    "name": "AI Testing Protocol",
+    "repo": "digital-trails/protocol-ai-model-test",
+    "container_name": "aitest",
+    "datums_endpoint": "https://api.digital-trails.org/datums"
   }
 }
 
