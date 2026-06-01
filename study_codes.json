@@ -52,6 +52,12 @@
     "config": "flow://flows/configs.json",
     "show_settings_config": false
   },
+  "UMA": {
+    "name": "Mind Trails",
+    "repo": "digital-trails/protocol-uma",
+    "container_name": "mtm",
+    "show_settings_config": false
+  },
   "SAB": {
     "name": "Recovery Support",
     "repo": "digital-trails/protocol-sab",
