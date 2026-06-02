@@ -55,7 +55,7 @@
   "UMA": {
     "name": "Mind Trails",
     "repo": "digital-trails/protocol-uma",
-    "container_name": "mtm",
+    "container_name": "uma",
     "show_settings_config": false
   },
   "SAB": {
