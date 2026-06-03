@@ -19,6 +19,17 @@
     "datums_endpoint": "https://api.digital-trails.org/datums",
     "config": "flow://flows/configs.json"
   },
+  "MTE-D": {
+    "name": "Mind Trails Spanish Test",
+    "repo": "TeachmanLab/mindtrails_spanish",
+    "lang": [
+      "es"
+    ],
+    "container_name": "mte-d",
+    "datums_endpoint": "https://api.digital-trails.org/datums",
+    "config": "flow://flows/configs.json",
+    "show_settings_config": true
+  },
   "MTM": {
     "name": "Mind Trails Movement",
     "repo": "TeachmanLab/mindtrails_movement",
