@@ -130,6 +130,11 @@
     "repo": "digital-trails/protocol-ai-model-test",
     "container_name": "aitest",
     "datums_endpoint": "https://api.digital-trails.org/datums"
+  },
+  "tremor": {
+    "name": "Tremor Retrainer",
+    "repo": "digital-trails/tremor-retrainer",
+    "container_name": "tremor"
   }
 }
 
