@@ -133,7 +133,7 @@
   },
   "tremor": {
     "name": "Tremor Retrainer",
-    "repo": "digital-trails/tremor-retrainer",
+    "repo": "digital-trails/protocol-tremor-trainer",
     "container_name": "tremor",
     "datums_endpoint": "https://api.digital-trails.org/datums"
   }
