@@ -90,7 +90,7 @@
       "es"
     ],
     "config_queues": {
-      "group": "mtm${global:population}group"
+      "group": "test${global:population}group"
     },
     "datums_endpoint": "https://api.digital-trails.org/datums"
   },
