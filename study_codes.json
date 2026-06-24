@@ -90,7 +90,7 @@
       "es"
     ],
     "config_queues": {
-      "group": "test${global:population}group"
+      "group": "testassignment"
     },
     "datums_endpoint": "https://api.digital-trails.org/datums"
   },
