@@ -100,6 +100,12 @@
     "repo": "digital-trails/protocol-test2",
     "container_name": "test2"
   },
+  "uitest": {
+    "name": "uitest",
+    "repo": "digital-trails/protocol-uitest",
+    "container_name": "uitest",
+    "config": "flow://flows/configs.json",
+  },
   "Demo": {
     "name": "Digital Trails Demo",
     "repo": "digital-trails/protocol-demo",
