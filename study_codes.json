@@ -146,6 +146,9 @@
   },
   "sleep": {
     "repo" :"digital-trails/protocol-SleepStudy"
+  },
+  "cycle": {
+    "repo": "digital-trails/protocol-CycleTrails"
   }
 }
 
