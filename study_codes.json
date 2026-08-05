@@ -143,6 +143,10 @@
     "repo": "digital-trails/protocol-tremor-trainer",
     "container_name": "tremor",
     "datums_endpoint": "https://api.digital-trails.org/datums"
+  },
+  "sleep": {
+    "name": "Sleep Study",
+    "repo" :"digital-trails/protocol-SleepStudy"
   }
 }
 
