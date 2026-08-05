@@ -145,7 +145,6 @@
     "datums_endpoint": "https://api.digital-trails.org/datums"
   },
   "sleep": {
-    "name": "Sleep Study",
     "repo" :"digital-trails/protocol-SleepStudy"
   }
 }
