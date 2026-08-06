@@ -145,10 +145,12 @@
     "datums_endpoint": "https://api.digital-trails.org/datums"
   },
   "sleep": {
-    "repo" :"digital-trails/protocol-SleepStudy"
+    "container_name": "sleep",
+    "repo" :"digital-trails/protocol-sleep"
   },
   "cycle": {
-    "repo": "digital-trails/protocol-CycleTrails"
+    "container_name": "cycle",
+    "repo": "digital-trails/protocol-cycle"
   }
 }
 
