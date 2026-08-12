@@ -151,7 +151,12 @@
   "cycle": {
     "container_name": "cycle",
     "repo": "digital-trails/protocol-cycle"
-  }
+  },
+  "er": {
+    "name": "ED Connect",
+    "repo": "digital-trails/tyde-er",
+    "container_name": "er"
+  },
 }
 
 
