@@ -63,7 +63,7 @@
     "config": "flow://flows/configs.json",
     "show_settings_config": false
   },
-  "UMA": {
+  "MTP": {
     "name": "Mind Trails",
     "repo": "digital-trails/protocol-uma",
     "container_name": "uma",
