@@ -114,6 +114,7 @@
   "MindMove": {
     "name": "Mind in Motion",
     "repo": "digital-trails/protocol-mindmove",
+    "config": "flow://flows/configs.json",
     "container_name": "mind-move",
     "public": true
   },
