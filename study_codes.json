@@ -74,8 +74,8 @@
     "repo": "digital-trails/protocol-sab",
     "container_name": "sab"
   },
-  "LEIA": {
-    "name": "LEIA",
+  "MTO": {
+    "name": "MindTrails On Cue",
     "repo": "digital-trails/protocol-leia",
     "container_name": "leia"
   },
