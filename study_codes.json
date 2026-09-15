@@ -156,7 +156,8 @@
   "er": {
     "name": "ED Connect",
     "repo": "digital-trails/tyde-er",
-    "container_name": "er"
+    "container_name": "er",
+    "config": "flow://flows/configs.json"
   },
 }
 
