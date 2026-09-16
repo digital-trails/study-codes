@@ -95,16 +95,11 @@
     },
     "datums_endpoint": "https://api.digital-trails.org/datums"
   },
-  "Test2": {
-    "name": "test 2",
-    "repo": "digital-trails/protocol-test2",
-    "container_name": "test2"
-  },
   "uitest": {
     "name": "uitest",
     "repo": "digital-trails/protocol-uitest",
     "container_name": "uitest",
-    "config": "flow://flows/configs.json",
+    "config": "flow://flows/configs.json"
   },
   "Demo": {
     "name": "Digital Trails Demo",
@@ -133,12 +128,6 @@
     "repo": "ibanjum/mind_move",
     "container_name": "ibcontainer"
   },
-  "ai": {
-    "name": "AI Testing Protocol",
-    "repo": "digital-trails/protocol-ai-model-test",
-    "container_name": "aitest",
-    "datums_endpoint": "https://api.digital-trails.org/datums"
-  },
   "tremor": {
     "name": "Tremor Retrainer",
     "repo": "digital-trails/protocol-tremor-trainer",
@@ -158,7 +147,7 @@
     "repo": "digital-trails/tyde-er",
     "container_name": "er",
     "config": "flow://flows/configs.json"
-  },
+  }
 }
 
 
