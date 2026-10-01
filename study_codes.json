@@ -147,6 +147,10 @@
     "repo": "digital-trails/tyde-er",
     "container_name": "er",
     "config": "flow://flows/configs.json"
+  },
+  "MTT": {
+    "container_name": "Mindtrails Teen",
+    "repo": "digital-trails/protocol-teen"
   }
 }
 
