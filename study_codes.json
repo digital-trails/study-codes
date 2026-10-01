@@ -149,7 +149,7 @@
     "config": "flow://flows/configs.json"
   },
   "MTT": {
-    "container_name": "Mindtrails Teen",
+    "container_name": "mtt",
     "repo": "digital-trails/protocol-teen"
   }
 }
